@@ -10,7 +10,6 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -32,8 +31,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             HappyBirthdayTheme {
                 Surface(
-                    modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colorScheme.background) {
+                    modifier = Modifier.fillMaxSize()) {
                     GreetingImage(
                         message = stringResource(R.string.happy_birthday_ja),
                         from = "Est"

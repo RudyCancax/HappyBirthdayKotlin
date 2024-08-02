@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">HappyBirthday</string>
     <string name="happy_birthday_ja">Happy Birthday, JA!</string>
+    <string name="title_activity_compose_article">ComposeArticle</string>
+    <string name="title_activity_task_manager">TaskManager</string>
+    <string name="title_activity_cuadrant">Cuadrant</string>
+    <string name="text_composable">Text composable</string>
+    <string name="content_cuadrant_1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="image_composable">Image composable</string>
+    <string name="content_cuadrant_2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="row_composable">Row composable</string>
+    <string name="content_cuadrant_3">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="column_composable">Column composable</string>
+    <string name="content_cuadrant_4">A layout composable that places its children in a vertical sequence.</string>
 </resources>

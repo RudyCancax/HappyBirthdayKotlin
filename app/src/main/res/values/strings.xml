@@ -12,4 +12,5 @@
     <string name="content_cuadrant_3">A layout composable that places its children in a horizontal sequence.</string>
     <string name="column_composable">Column composable</string>
     <string name="content_cuadrant_4">A layout composable that places its children in a vertical sequence.</string>
+    <string name="title_activity_business_card">BusinessCard</string>
 </resources>
